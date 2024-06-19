@@ -1,0 +1,14 @@
+{
+  "$policyId": {
+    "project": Burger Flipper string,
+    "categories": MEME Coin string[],
+    "socialLinks"?: {
+      "website"?: string,
+      "twitter"?: https://x.com/BurgerFlippaADA string,
+      "discord"?: string,
+      "telegram"?: string,
+      "coinMarketCap"?: string,
+      "coinGecko"?: string
+    }
+  }
+}
